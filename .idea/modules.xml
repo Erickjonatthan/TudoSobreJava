@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Debug-de-Codigo/Debug-de-Codigo.iml" filepath="$PROJECT_DIR$/Debug-de-Codigo/Debug-de-Codigo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caracteristicas-da-linguagem-java/caracteristicas-da-linguagem-java.iml" filepath="$PROJECT_DIR$/caracteristicas-da-linguagem-java/caracteristicas-da-linguagem-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caracteristicas-da-linguagem-java-2/caracteristicas-da-linguagem-java-2.iml" filepath="$PROJECT_DIR$/caracteristicas-da-linguagem-java-2/caracteristicas-da-linguagem-java-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+    </modules>
+  </component>
+</project>
